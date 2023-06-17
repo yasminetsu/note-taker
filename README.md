@@ -1,7 +1,7 @@
 # Note Taker
 
   <a href="https://yasminetsu.github.io/note-taker/">
-  <img src=".public/assets/images/live demo.webp" alt="live-logo">
+  <img src="./public/assets/images/live%20demo.webp" alt="live-logo">
 
 
 ## Use Story
@@ -51,5 +51,5 @@ $ git clone <paste the copied link>
 #
 
 
-<img src=".public/assets/images/notetaker(1).png" alt="notetaker">
-<img src=".public/assets/images/notetaker(2).png" alt="notetaker">
+<img src="./public/assets/images/notetaker%20(1).png" alt="notetaker">
+<img src="./public/assets/images/notetaker%20(2).png" alt="notetaker">
